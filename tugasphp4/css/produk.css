@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* Warna latar belakang abu-abu */
+    color: #333; /* Warna teks abu-abu gelap */
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Gaya untuk produk */
+  .product {
+    max-width: 600px; /* Lebar maksimum konten produk */
+    margin: 0 auto; /* Pusatkan konten produk */
+    padding: 20px;
+    background-color: #fff; /* Latar belakang putih */
+    border-radius: 8px; /* Sudut border yang membulat */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+    margin-bottom: 20px; /* Margin bawah */
+  }
+  
+  /* Gaya untuk judul produk */
+  .product h3 {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  /* Gaya untuk gambar produk */
+  .product img {
+    display: block; /* Atur gambar agar dapat diposisikan dengan baik */
+    margin: 0 auto; /* Posisikan gambar di tengah */
+    width: 80%; /* Lebar gambar */
+    max-width: 300px; /* Lebar maksimum gambar */
+    height: auto; /* Biarkan tinggi gambar disesuaikan agar proporsi gambar tetap terjaga */
+    border-radius: 8px; /* Sudut border yang membulat */
+  }
+  
+  /* Gaya untuk deskripsi produk */
+  .product p {
+    text-align: justify; /* Justifikasi teks */
+    margin-bottom: 20px; /* Margin bawah */
+  }
