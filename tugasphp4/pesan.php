@@ -23,8 +23,8 @@
         <input type="number" id="jumlah_pesanan" name="jumlah_pesanan" min="1" required>
       </div>
       <div class="form-group">
-        <label for="jenis_mobil">Jenis Mobil:</label>
-        <select id="jenis_mobil" name="jenis_mobil" required>
+        <label for="jenis_hp">Jenis hp:</label>
+        <select id="jenis_hp" name="jenis_hp" required>
           <option value="A05">Samsung A05</option>
           <option value="A24">Samsung A24</option>
           <option value="A22">Samsung A22</option>
